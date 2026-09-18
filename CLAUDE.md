@@ -1,3 +1,24 @@
+# mirador (jchultarsky/mirador)
+
+## 프로젝트 개요
+터미널 검은 화면을 나만의 멋진 우주선 조종석처럼 만들어 세계 시각, 시스템 상태, 주요 뉴스를 띄워주는 "터미널 개인 종합 관제 대시보드"
+키보드에서 손을 떼지 않고도 오늘의 날씨, 암호화폐 시세, 주요 작업 현황을 한눈에 감각적으로 모니터링
+매일 터미널과 마주하는 엔지니어의 작업 공간에 프로페셔널한 멋과 실용적인 생산성을 더해주는 미학적 대시보드
+
+## 핵심 특징 & 추천 분야
+- 터미널조종석대시보드
+- 세계시각날씨모니터
+- 감각적인작업공간
+- 엔지니어개인관제탑
+- 터미널미학도구
+
+---
+*이 문서는 오픈소스 큐레이터(Curator-Agent)에 의해 자동 생성된 가이드 문서입니다.*
+
+
+---
+## 기존 CLAUDE.md 내용
+
 # CLAUDE.md — working notes for mirador
 
 Context for anyone (human or agent) picking this repo up cold. Design rationale
